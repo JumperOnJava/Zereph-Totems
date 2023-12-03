@@ -1,0 +1,8 @@
+{
+  "item.zereph_totem.phoenix_totem": "Phoenix totem",
+  "item.zereph_totem.wild_totem": "Wild totem",
+  "item.zereph_totem.wolf_totem": "Wolf totem",
+  "effect.zereph_totem.low_flames": "Low flames",
+  "effect.zereph_totem.low_flames.description": "Phoenix totem won't work when this effect is on you"
+
+}

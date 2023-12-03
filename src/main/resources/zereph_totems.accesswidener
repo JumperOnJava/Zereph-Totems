@@ -1,0 +1,4 @@
+accessWidener v2 named
+accessible method net/minecraft/entity/LivingEntity tryUseTotem (Lnet/minecraft/entity/damage/DamageSource;)Z
+accessible field net/minecraft/entity/projectile/PersistentProjectileEntity life I
+accessible field net/minecraft/client/model/ModelPart children Ljava/util/Map;

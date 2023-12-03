@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "zereph_totem:item/wolf_totem"
+  }
+}

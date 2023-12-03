@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        " E ",
+        "MBM"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:totem_of_undying"
+        },
+        "E": {
+            "item": "minecraft:end_crystal"
+        },
+        "M": {
+            "item": "minecraft:mutton"
+        },
+        "B": {
+            "item": "minecraft:bone_block"
+        }
+    },
+    "result": {
+        "item": "zereph_totem:wolf_totem",
+        "count": 1
+    }
+}

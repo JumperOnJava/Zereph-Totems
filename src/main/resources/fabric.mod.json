@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "zereph_totems",
+  "version": "${version}",
+  "name": "Zereph Totems",
+  "description": "",
+  "authors": [
+    "JavaJumper"
+  ],
+  "contact": {
+    "website": "jumperonjava",
+    "repo": "https://github.com/JumperOnJava/Zereph Totems"
+  },
+  "license": "GPL-3.0",
+  "accessWidener": "zereph_totems.accesswidener",
+  "icon": "assets/zereph_totems/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "io.github.jumperonjava.zereph_totems.client.ZerephTotemsClient"
+    ],
+    "main": [
+      "io.github.jumperonjava.zereph_totems.ZerephTotems"
+    ]
+  },
+  "mixins": [
+    "zereph_totems.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
