@@ -246,7 +246,7 @@ public class TotemEvents {
                     player,
                     new ParticleS2CPacket(
                             particle,
-                            false,
+                            true,
                             pos.x + Math.cos(i),
                             new Random().nextFloat((float) pos.y, (float) (pos.y+player.getHeight()/2)),
                             pos.z + Math.sin(i),
